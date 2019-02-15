@@ -32,3 +32,5 @@ conda install -c menpo opencv
 * https://www.superdatascience.com/opencv-face-recognition/
 * https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
 
+To start the host:
+type : python tester.py
